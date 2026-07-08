@@ -7,7 +7,7 @@
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shafi-afridi/shafi-afridi/main/assets/header.gif?v=1" alt="Shafi Ullah — Software Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/shafi-afridi/shafi-afridi/main/assets/header.gif?v=2" alt="Shafi Ullah — Software Engineer" width="100%" />
 </p>
 
 <p align="center">
