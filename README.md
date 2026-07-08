@@ -86,7 +86,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shafi-afridi&hide_border=true&theme=tokyonight&ring=2F81F7&fire=2F81F7&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shafi-afridi&hide_border=true&theme=default&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
-  <img src="https://streak-stats.demolab.com?user=shafi-afridi&hide_border=true" alt="Shafi's GitHub streak & contributions" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=shafi-afridi&hide_border=true&theme=default&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Shafi's GitHub streak & contributions" width="70%" />
 </picture>
 
 <br/><br/>
