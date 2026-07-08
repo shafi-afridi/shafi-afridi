@@ -1,14 +1,13 @@
 <!-- ============================================================= -->
 <!--  GitHub PROFILE README — Shafi Ullah (@shafi-afridi)          -->
-<!--  Header is a PNG committed to this repo (assets/header.png) — -->
-<!--  GitHub-hosted, so it renders reliably and never breaks.      -->
-<!--  Everything else uses only shields.io + komarev (rock-solid). -->
-<!--  To restyle the banner, edit the source at                    -->
-<!--  scratchpad/banner.py, re-render, and bump ?v= below.         -->
+<!--  Header is an ANIMATED GIF committed to this repo               -->
+<!--  (assets/header.gif) — GitHub-hosted, so it renders reliably   -->
+<!--  and never breaks, unlike the free stat-card generators.       -->
+<!--  Everything else uses only shields.io + komarev (rock-solid).  -->
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shafi-afridi/shafi-afridi/main/assets/header.png?v=1" alt="Shafi Ullah — Software Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/shafi-afridi/shafi-afridi/main/assets/header.gif?v=1" alt="Shafi Ullah — Software Engineer" width="100%" />
 </p>
 
 <p align="center">
