@@ -1,19 +1,15 @@
 <!-- ============================================================= -->
 <!--  GitHub PROFILE README — Shafi Ullah (@shafi-afridi)          -->
-<!--  Design principle: use ONLY rock-solid services so nothing    -->
-<!--  ever renders as a broken image:                              -->
-<!--    • shields.io  (badges)     • komarev  (profile views)      -->
-<!--    • native GitHub markdown/HTML (header, layout)             -->
-<!--  The stat-card generators (github-readme-stats, streak-stats, -->
-<!--  github-profile-trophy, capsule-render) were removed — their  -->
-<!--  free shared instances intermittently return 402/503 and      -->
-<!--  render as broken images. See the OPTIONAL block at the       -->
-<!--  bottom to add a reliable stats card via your own instance.   -->
+<!--  Header is a PNG committed to this repo (assets/header.png) — -->
+<!--  GitHub-hosted, so it renders reliably and never breaks.      -->
+<!--  Everything else uses only shields.io + komarev (rock-solid). -->
+<!--  To restyle the banner, edit the source at                    -->
+<!--  scratchpad/banner.py, re-render, and bump ?v= below.         -->
 <!-- ============================================================= -->
 
-<h1 align="center">Shafi Ullah</h1>
-<h3 align="center">Software Engineer</h3>
-<p align="center"><i>Cloud-native apps&nbsp; ·&nbsp; AI-assisted development&nbsp; ·&nbsp; End-to-end ownership</i></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shafi-afridi/shafi-afridi/main/assets/header.png?v=1" alt="Shafi Ullah — Software Engineer" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/shafi-afridi"><img src="https://img.shields.io/github/followers/shafi-afridi?label=Follow&style=social" alt="Follow" /></a>
@@ -37,7 +33,7 @@
 - 🌱 &nbsp;Currently tinkering with **AI-assisted development** & DevOps tooling.
 - ⚡ &nbsp;Fun fact: I let the robots pair-program with me — **Claude, Cursor & Copilot**.
 - 💬 &nbsp;Convo starter: TypeScript, serverless, or the perfect CI pipeline.
-- 📫 &nbsp;Reach me at **shafistacks@gmail.com** · 🤗 [huggingface.co/shafi-afridi](https://huggingface.co/shafi-afridi)
+- 📫 &nbsp;Reach me at **shafistacks@gmail.com**
 
 ---
 
@@ -79,14 +75,6 @@
 
 ---
 
-### 📌 Featured work
-
-- 🤗 &nbsp;**[face-capture-quality](https://huggingface.co/shafi-afridi/face-capture-quality)** — on-device face image-quality + head-pose model (MobileNetV3 → PyTorch / ONNX / CoreML).
-- 🚀 &nbsp;**[Live demo](https://huggingface.co/spaces/shafi-afridi/face-capture-quality-demo)** — drop in a face, get a pose + usability score.
-- 🌐 &nbsp;**[shafiullah.dev](https://shafiullah.dev)** — portfolio & projects.
-
----
-
 ### 📊 GitHub
 
 <p align="center">
@@ -95,24 +83,13 @@
   <a href="https://github.com/shafi-afridi?tab=repositories"><img src="https://img.shields.io/badge/Browse%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
-<p align="center"><sub>📈 My contribution activity is shown in the graph just below this README.</sub></p>
-
 <!-- ============================================================= -->
 <!--  OPTIONAL — reliable stats + streak + top-languages cards.    -->
-<!--  The free public instances break; deploy YOUR OWN in ~2 min:  -->
+<!--  Deploy YOUR OWN github-readme-stats (~2 min), then paste:    -->
 <!--  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-     Then replace <YOUR-INSTANCE> below with your Vercel domain    -->
-<!--  and paste this into the GitHub section:                      -->
-<!--
 <div align="center">
   <img src="https://<YOUR-INSTANCE>.vercel.app/api?username=shafi-afridi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" height="165" />
   <img src="https://<YOUR-INSTANCE>.vercel.app/api/top-langs/?username=shafi-afridi&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="165" />
 </div>
 -->
 <!-- ============================================================= -->
-
----
-
-<div align="center">
-<sub>⭐️ Thanks for stopping by — let's build something. Portfolio → <a href="https://shafiullah.dev">shafiullah.dev</a></sub>
-</div>
