@@ -1,29 +1,28 @@
-<a href="https://www.shafiullah.dev/">
-  <img src="assets/editorial-header.gif" alt="Shafi Ullah — Senior Software Engineer. Full-stack, backend, curious by default." width="100%" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-header-dark-compact.svg" />
+  <source media="(max-width: 600px)" srcset="assets/profile-header-light-compact.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg" />
+  <img src="assets/profile-header-light.svg" alt="Shafi Ullah — Senior Software Engineer" width="100%" />
+</picture>
 
-<p align="center">
-  <a href="https://www.shafiullah.dev/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/shafi-ullah-afridi-2976b5189/">LinkedIn</a> &nbsp; / &nbsp;
+<p>
+  <a href="https://www.shafiullah.dev/">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/shafi-ullah-afridi-2976b5189/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:shafistacks@gmail.com">Email</a>
 </p>
 
-### A little about me
+### About
 
-I build across the stack, with a focus on backend systems, useful interfaces and the details that make software dependable. My work spans healthcare, senior living and financial integrations.
+I build backend systems, web interfaces and integrations for healthcare, senior living and financial products.
 
-I like staying with a problem from the first technical decision through release: working with product and QA, testing connected workflows, and making the next change easier to understand.
+I work from technical decisions through release and production support. Outside work, I explore Python, on-device machine learning and small tools for everyday problems.
 
-Away from the day job, I explore Python, on-device machine learning and small tools that make everyday work simpler. Always collecting good ideas.
+### Toolkit
 
-### Tools I reach for
-
-| Area | Toolkit |
+| Focus | Tools |
 | :--- | :--- |
 | Languages | TypeScript · JavaScript · Python · PHP |
 | Interfaces | React · Angular · Vue · Next.js |
 | Backend & data | Node.js · Express · PostgreSQL · MySQL · Redis · RabbitMQ |
-| Cloud & delivery | AWS · Docker · Pulumi · AWS CDK · GitHub Actions |
-| Quality | Mocha · Chai · Sinon · Unit & integration testing |
-
-More about my work at **[shafiullah.dev](https://www.shafiullah.dev/)**.
+| Cloud & delivery | AWS · Docker · GitHub Actions |
+| Testing | Mocha · Chai · Sinon |

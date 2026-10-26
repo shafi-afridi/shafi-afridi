@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="236" viewBox="0 0 1280 236" role="img" aria-labelledby="title desc">
+  <title id="title">Shafi Ullah — Senior Software Engineer</title>
+  <desc id="desc">A clean typographic header with a small teal feather and gold spark.</desc>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="2" y="37" fill="#62635d" font-size="18" letter-spacing="2.5">SHAFI-AFRIDI</text>
+    <text x="0" y="132" fill="#20211f" font-size="79" font-weight="600" letter-spacing="-3">Shafi Ullah</text>
+    <text x="2" y="190" fill="#62635d" font-size="28">Senior Software Engineer</text>
+  </g>
+  <g transform="translate(1032 9)"><g aria-hidden="true">
+      <path d="M68 169C29 149 15 109 35 66C52 30 85 9 117 7C143 31 151 70 137 106C123 142 98 163 68 169Z" fill="#21666b"/>
+      <path d="M68 169C33 151 18 118 30 82C42 53 62 29 88 16C76 56 73 96 68 169Z" fill="#162030"/>
+      <path d="M56 196L111 38M69 158L109 132M82 119L125 93M92 89L62 64" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M160 15L165 29L179 34L165 39L160 53L155 39L141 34L155 29Z" fill="#c68b2b"/>
+    </g></g>
+</svg>
